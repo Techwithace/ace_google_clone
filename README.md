@@ -3,6 +3,12 @@
 **Ace Google Clone** is a Flutter-based web application that mimics the core features of the Google search engine. It allows users to perform searches using the Google Custom Search JSON API. This project serves as a learning tool to understand API integration, responsive UI design, and the use of reusable widgets in Flutter.
 
 ---
+## Demo
+
+A short demo video of the app's functionality is available in the repository to give you an overview of how the app works and the features it offers.
+# Demo Video
+
+[![Demo Video](Untitled.png)](https://youtu.be/_NLpDTlHsxk)
 
 ## Features
 - **Google Search Functionality**: Users can perform searches and retrieve results from Google using the Custom Search JSON API.
@@ -83,15 +89,6 @@ flutter run
 2. Clone your fork and create a new branch for your feature or fix.
 3. Make your changes and write tests to cover them.
 4. Open a pull request to the main repository.
-
----
-
-## Demo
-
-A short demo video of the app's functionality is available in the repository to give you an overview of how the app works and the features it offers.
-# Demo Video
-
-[![Demo Video](Untitled.png)](https://youtu.be/_NLpDTlHsxk)
 
 
 ---
