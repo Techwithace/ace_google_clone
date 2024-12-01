@@ -89,6 +89,8 @@ flutter run
 ## Demo
 
 A short demo video of the app's functionality is available in the repository to give you an overview of how the app works and the features it offers.
+[Watch the demo video](2024-12-01 13-51-02.mp4)
+
 
 ---
 
