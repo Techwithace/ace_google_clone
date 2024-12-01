@@ -1,2 +1,16 @@
 # ace_google_clone
-Ace Google Clone is a simplified web application replicating core features of the Google search engine. Built with Flutter, it allows users to perform searches using Google’s Custom Search JSON API. This project demonstrates seamless integration of APIs, responsive UI design, and modular development practices.
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
