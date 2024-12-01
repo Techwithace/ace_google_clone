@@ -91,7 +91,7 @@ flutter run
 A short demo video of the app's functionality is available in the repository to give you an overview of how the app works and the features it offers.
 # Demo Video
 
-[![Demo Video](untitled.png)](https://youtu.be/_NLpDTlHsxk)
+[![Demo Video](Untitled.png)](https://youtu.be/_NLpDTlHsxk)
 
 
 ---
